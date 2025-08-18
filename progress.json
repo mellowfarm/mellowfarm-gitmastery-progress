@@ -79,14 +79,5 @@
       "Great work creating a fork with Github!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "clone-repo",
-    "started_at": 1755504379.366416,
-    "completed_at": 1755504381.312085,
-    "comments": [
-      "Clone named shapes is missing! Remember to clone your fork using the name 'shapes', not 'gm-shapes'!"
-    ],
-    "status": "Incomplete"
   }
 ]
